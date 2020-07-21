@@ -37,7 +37,6 @@ Free to download Warhammer 40.000 icons as SVG/iconfont for 9th Edition.
 |Icon|name|font-class|
 |--|--|--|
 |![Armour Penetration](./src/svg/ArmourPenetration.svg)|Armour Penetration|`wh40k-armour-penetration`|
-|![Armour Penetration](./src/svg/ArmourPenetration.svg)|Armour Penetration|`wh40k-armour-penetration`|
 |![Damage](./src/svg/Damage.svg)|Damage|`wh40k-damage`|
 |![Range](./src/svg/Range.svg)|Range|`wh40k-range`|
 |![Strength](./src/svg/Strength.svg)|Strength|`wh40k-strength`|
